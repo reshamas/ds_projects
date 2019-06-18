@@ -1,2 +1,1 @@
-# ds_projects
-Data Science Projects
+# Data Science Projects
